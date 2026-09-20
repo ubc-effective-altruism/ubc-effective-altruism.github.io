@@ -1,0 +1,6 @@
+{
+  "name": "UBC Effective Altruism",
+  "description": "Official website for UBC Effective Altruism club with live Upcoming Events calendar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
